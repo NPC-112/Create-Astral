@@ -1,6 +1,6 @@
 name = "Reese's Sodium Options"
 filename = "reeses_sodium_options-1.4.9+mc1.18.2-build.66.jar"
-side = "both"
+side = "client"
 
 [download]
 mode = "metadata:curseforge"
