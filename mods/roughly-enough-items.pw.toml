@@ -1,6 +1,6 @@
 name = "Roughly Enough Items"
 filename = "RoughlyEnoughItems-8.3.588.jar"
-side = "both"
+side = "client"
 
 [download]
 mode = "metadata:curseforge"
