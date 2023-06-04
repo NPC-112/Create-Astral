@@ -17510,6 +17510,11 @@ hash = "1c2a01564cb9988b54cfc029fbd0f7b3c7aae9c055a5fd62b56c7534153316b0"
 metafile = true
 
 [[files]]
+file = "mods/patpatpat.pw.toml"
+hash = "267d279c955830c397646454d46c984251d14cb4b778547c8fd49e77ff461e56"
+metafile = true
+
+[[files]]
 file = "mods/per-aspera.pw.toml"
 hash = "26753afd34dcc6e7fad509cba7905af7a93b7770fb39414683f3e5ae9d419b1d"
 metafile = true
