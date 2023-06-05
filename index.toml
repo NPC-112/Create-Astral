@@ -17511,7 +17511,7 @@ metafile = true
 
 [[files]]
 file = "mods/patpatpat.pw.toml"
-hash = "267d279c955830c397646454d46c984251d14cb4b778547c8fd49e77ff461e56"
+hash = "a7cac00c7cdc011fe665fa1aa588e4dab3a63ad5a7e76e0d6900027468e8f456"
 metafile = true
 
 [[files]]
@@ -17683,7 +17683,3 @@ metafile = true
 file = "mods/youre-in-grave-danger.pw.toml"
 hash = "1b58b6aa2872a7c9b5fc5ac5d8d955bae0036813760b379658868703184d02b3"
 metafile = true
-
-[[files]]
-file = "servers.dat"
-hash = "93b0050295e8023db22956f94f42c76a406b683de3a377ab0689971ee9f60354"
