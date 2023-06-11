@@ -257,10 +257,6 @@ file = "config/expanded_trident_enchanting.json"
 hash = "7ac9623dee0e5068169662aa8cd2f19e34d3e91beb59591c2292271a560d6864"
 
 [[files]]
-file = "config/explorerscompass.json"
-hash = "2e82db4cbb15457172a507500261833b91a1c5488f0846323a74533275b6880e"
-
-[[files]]
 file = "config/fabric/indigo-renderer.properties"
 hash = "b8350863f3a7b08cfc2953f902a4e5419e72c7780e9dfb93810f7909415e7f34"
 
@@ -457,10 +453,6 @@ file = "config/idwtialsimmoedm.json"
 hash = "9ac9229a041c078a6e9c37bd1d6f9f5eae5cc604f53be93c88c22c56b4eb8542"
 
 [[files]]
-file = "config/immediatelyfast.json"
-hash = "d001d4dca47027dffb96288efa9748417e90fd809bd689b5cdbd3ae8ac589697"
-
-[[files]]
 file = "config/immersive_aircraft.json"
 hash = "0281fd972a6a02977d985f58595609ce944d60cac06270323e48f50bd55d0f92"
 
@@ -507,10 +499,6 @@ hash = "bc0a7d4b15f005197b8e5f94f7a5fcea8fecbebc4a3bb15c817f13d8c572c925"
 [[files]]
 file = "config/jade/usernamecache.json"
 hash = "71cd889fb7aa0533a96eef5179f364010c37264e57104f4dd07c6b9589b26e23"
-
-[[files]]
-file = "config/jmi-client.json"
-hash = "e3eccd9ea53ea4cb7217cf4e474460e94d2afddc82a418d9f595e8ed62efc23c"
 
 [[files]]
 file = "config/jsonem.properties"
@@ -563,10 +551,6 @@ hash = "c25d09dca430c65f1ec3bd1c6174879a5c2ee77dec4b2f1ee0d1ba97e0c2e489"
 [[files]]
 file = "config/loadmyresources/config.cfg"
 hash = "d7a9b2712d17945f21a3a938bdb49cc5448e3aa53b2c084670163fa8eb2f297c"
-
-[[files]]
-file = "config/lootr.json"
-hash = "24e44a3f5cc691554b30356977abc94df3b198367a8c0e410a93da65ae7a8b36"
 
 [[files]]
 file = "config/magna.json"
@@ -667,10 +651,6 @@ hash = "f4a1febaadfde03ca21228b4e5f4119e17d49433c218baaf834a19dccdba7d57"
 [[files]]
 file = "config/polymer/server.json"
 hash = "d4963a41d3960071458796a3193f15e5a508d5c539afbd84a228ebd3e366032f"
-
-[[files]]
-file = "config/polymorph-integrations.json"
-hash = "cbf06973eb6b5b659d80147a245e1308b02308f6ef6195545e459ff71a3221a8"
 
 [[files]]
 file = "config/probablychests.toml"
@@ -41005,3 +40985,11 @@ hash = "c5ae48a3433e4e4fe870852be9654649de1f1ab22c8db865d30b162e0603c0e4"
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "1b3a65007516d0aa8db39e46a5e0d5c542610f5791e711c6b8a2204a54b4a635"
 metafile = true
+
+[[files]]
+file = "unsup-0.2.0-pre4.jar"
+hash = "13419c96e482f170035b2e4e943f69af1e96114c42512a95dcccab04c1c9e10e"
+
+[[files]]
+file = "unsup.ini"
+hash = "b14b8875f0728c3a45dcb18691b1d78ce84f3c8b3146fc5c20c07f0106e00576"
