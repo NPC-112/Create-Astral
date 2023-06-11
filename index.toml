@@ -17725,3 +17725,11 @@ metafile = true
 file = "mods/youre-in-grave-danger.pw.toml"
 hash = "1b58b6aa2872a7c9b5fc5ac5d8d955bae0036813760b379658868703184d02b3"
 metafile = true
+
+[[files]]
+file = "unsup-0.2.0-pre4.jar"
+hash = "13419c96e482f170035b2e4e943f69af1e96114c42512a95dcccab04c1c9e10e"
+
+[[files]]
+file = "unsup.ini"
+hash = "f5260a7c0b96e9477f8d5dfc4c2adc6d7d4232b764fd936df97308722b8c94fd"
