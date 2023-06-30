@@ -948,7 +948,7 @@ function sequencedAssemblyRecipes(event) {
                     "create:incomplete_precision_mechanism",
                     [
                         "create:incomplete_precision_mechanism",
-                        "techreborn:nak_coolant_cell_60k",
+                        "create:blaze_burner",
                     ]
                 ),
                 event.recipes.createDeploying(
@@ -961,7 +961,7 @@ function sequencedAssemblyRecipes(event) {
             ]
         )
         .transitionalItem("create:incomplete_precision_mechanism")
-        .loops(1);
+        .loops(2);
 
     event.recipes
         .createSequencedAssembly(
@@ -1663,6 +1663,15 @@ function mixingRecipes(event) {
             time: 500,
         },
         {
+            output: "blahaj:gray_shark",
+            input: [
+                { fluid: "kubejs:shimmer", amount: 81000 },
+                "blahaj:blue_shark",
+            ],
+            heat: "",
+            time: 2000,
+        },
+        {
             output: "tconstruct:ichor_slime_ball",
             input: [
                 { fluid: "kubejs:shimmer", amount: 9000 },
@@ -1856,6 +1865,56 @@ function mechanicalCraftingRecipes(event) {
     // Inputs: Object with letters assigned to input items, to be used in the shape
     [
         {
+            output: "immersive_aircraft:airship",
+            shape: ["AAAA ", "AAAAA", " GFG ", "BEDBC", " BBB "],
+            inputs: {
+                A: "immersive_aircraft:sail",
+                B: "immersive_aircraft:hull",
+                C: "create:propeller",
+                D: "immersive_aircraft:engine",
+                E: "#create:seats",
+                F: "createastral:airship_blueprint",
+                G: "campanion:rope",
+            },
+        },
+        {
+            output: "immersive_aircraft:quadrocopter",
+            shape: ["CCDCC ", "CCBCC ", "ABEBAF", "CCBCC ", "CCDCC "],
+            inputs: {
+                A: "create:precision_mechanism",
+                B: "immersive_aircraft:hull",
+                C: "create:propeller",
+                D: "createaddition:brass_rod",
+                E: "#create:seats",
+                F: "createastral:quadrocopter_blueprint",
+            },
+        },
+        {
+            output: "immersive_aircraft:gyrodyne",
+            shape: [" CCC ", "  DF ", "BGEBA", " BBB "],
+            inputs: {
+                A: "immersive_aircraft:sail",
+                B: "immersive_aircraft:hull",
+                C: "create:propeller",
+                D: "createaddition:brass_rod",
+                E: "#create:seats",
+                F: "createastral:gyrodyne_blueprint",
+                G: "create:hand_crank",
+            },
+        },
+        {
+            output: "immersive_aircraft:biplane",
+            shape: ["    AA   ", "    AA   ", " A   BBC ", "BBBBBEDCF", " A   BBC ", "    AA   ", "    AA   ", ],
+            inputs: {
+                A: "immersive_aircraft:sail",
+                B: "immersive_aircraft:hull",
+                C: "create:propeller",
+                D: "immersive_aircraft:engine",
+                E: "#create:seats",
+                F: "createastral:biplane_blueprint",
+            },
+        },
+        {
             output: "ad_astra:launch_pad",
             shape: ["BAAAB", "ABABA", "AABAA", "ABABA", "BAAAB"],
             inputs: {
@@ -1876,7 +1935,7 @@ function mechanicalCraftingRecipes(event) {
             output: "immersive_aircraft:boiler",
             shape: ["AB", "CB", "CB"],
             inputs: {
-                A: "techreborn:machine_parts",
+                A: "create:nozzle",
                 B: "create:copper_sheet",
                 C: "techreborn:rubber",
             },
@@ -2062,6 +2121,18 @@ function mechanicalCraftingRecipes(event) {
         },
 
         {
+            output: "extended_drawers:controller",
+            shape: [" E ", "ACA", "BDB", "ACA", " E "],
+            inputs: {
+                A: "ad_astra:desh_block",
+                B: "createastral:astral_conduit",
+                C: "create:redstone_link",
+                D: "create:linked_controller",
+                E: "tconstruct:cobalt_block",
+            },
+        },
+
+        {
             output: "2x techreborn:fusion_coil",
             shape: ["CCCCC", "CBBBC", "CBDBC", "CBBBC", "CCCCC"],
             inputs: {
@@ -2113,7 +2184,7 @@ function mechanicalCraftingRecipes(event) {
                 D: "createastral:navigation_mechanism",
                 E: "dustrial_decor:padded_block",
 
-                //AUTOMOBILITY RECIPE CHANGES
+                
             },
         },
         
@@ -2244,6 +2315,26 @@ function compactingRecipes(event) {
         {
             output: { fluid: "kubejs:red_grape_juice", amount: 6750 },
             inputs: ["vinery:red_grape"],
+        },
+        {
+            output: "minecraft:porkchop",
+            inputs: ["3x #c:mushrooms", "minecraft:rotten_flesh", { fluid: "createaddition:seed_oil", amount: FULL_BUCKET_AMMOUNT / 9 }],
+        },
+        {
+            output: "minecraft:beef",
+            inputs: ["3x #c:mushrooms", "3x #c:grass_variants", { fluid: "createaddition:seed_oil", amount: FULL_BUCKET_AMMOUNT / 9 }],
+        },
+        {
+            output: "minecraft:chicken",
+            inputs: ["3x #c:mushrooms", "farmersdelight:rice", { fluid: "createaddition:seed_oil", amount: FULL_BUCKET_AMMOUNT / 9 }],
+        },
+        {
+            output: "minecraft:mutton",
+            inputs: ["3x #c:mushrooms", "#minecraft:wool", { fluid: "createaddition:seed_oil", amount: FULL_BUCKET_AMMOUNT / 9 }],
+        },
+        {
+            output: "minecraft:rabbit",
+            inputs: ["3x #c:mushrooms", "minecraft:carrot", { fluid: "createaddition:seed_oil", amount: FULL_BUCKET_AMMOUNT / 9 }],
         },
 
     ].forEach((recipe) => {
