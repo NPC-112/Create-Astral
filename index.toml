@@ -21,6 +21,10 @@ file = "config/DisablePortals.json"
 hash = "f378964edc85c222f9b7192bb8fe083f3acb71823becdf2f4ea478eb63af148c"
 
 [[files]]
+file = "config/HorseBuff.toml"
+hash = "e84b00145b8c6be4b4a4ee8d79d0292deae90b2f406b6df0d1bcb039a5cb8fea"
+
+[[files]]
 file = "config/SkipTransitions.properties"
 hash = "b461b46f0e7b5a1c945deb98deafea32332b5de90f1eaa9e35e2b9c6ee2c6440"
 
@@ -889,12 +893,16 @@ file = "config/worldeditcui.config.json"
 hash = "15f61c8e5daaa2a5a73efbca00c5927ea15ea974323a8a22c242557f4f286a6f"
 
 [[files]]
+file = "config/wormhole-common.toml"
+hash = "28e27ba1945f1ab86705afc5a084b6a4c39d8983c1a63de9266b461379636ce7"
+
+[[files]]
 file = "config/yigd.toml"
 hash = "1876fd45256526d1f8971ddd101741ee2a02c34d36ed42324f82e47f55b39c20"
 
 [[files]]
 file = "config/yttr.css"
-hash = "430a0f64b37456a82fdc059a45a12b3bc0f6ada189b07eb1805a5e1a385df2e4"
+hash = "4e701e25a47d948eb4538559cc97ec7a9c7135e3400a07f0f6c9cbb64d42406f"
 
 [[files]]
 file = "defaultconfigs/create-server.toml"
@@ -3378,7 +3386,7 @@ hash = "c8017458f0de1d9c8f1b86c818ee3fbd9337e968915bbc014dabeb6cd1365c93"
 
 [[files]]
 file = "global_packs/required_data/zLaky Core/data/createastral/machines/shimmer_refinery.json"
-hash = "5efa6d751e915fb9c51eeef15153bf0e668398e4bc74bbbe72986529744cf198"
+hash = "86b534d545bb91fd397660d381249d3107d035957bd3ee17e3c0f6828f42467d"
 
 [[files]]
 file = "global_packs/required_data/zLaky Core/data/createastral/recipes/distillery/fuel.json"
@@ -3499,10 +3507,6 @@ hash = "d576b31d3d5ecf9d509f0c4d88427049e221e8e6f1f5367c6644776cdb112757"
 [[files]]
 file = "global_packs/required_data/zLaky Core/data/immersive_aircraft/recipes/propeller.json"
 hash = "9c48623b8415c61147758d1f11ece531055ad6d1eedd8c7d42d1f9e4b4f40f30"
-
-[[files]]
-file = "global_packs/required_data/zLaky Core/data/immersive_aircraft/recipes/quadrocopter.json"
-hash = "3d0db896f5370eda4a56a5ed2cdacfd9d80841672bce4d1d01fec60dbe0f7bf7"
 
 [[files]]
 file = "global_packs/required_data/zLaky Core/data/immersive_aircraft/recipes/sail.json"
@@ -16750,15 +16754,15 @@ hash = "058c91a44f9f4c079069775e15aea88454aee80420815cf5af51dedf01187d24"
 
 [[files]]
 file = "kubejs/server_scripts/create.js"
-hash = "943b0fffd34173dd24431f5b322dd81d9f8edebf79b5e08cd1ee240c4ca12b50"
+hash = "b1b7aa963a24f16e9d8dbd016a48d4f1bc96396f553fda32d1671c5564ad9403"
 
 [[files]]
 file = "kubejs/server_scripts/createaddons.js"
-hash = "1de882cad3c2674ff0a0575fbf1d5d21fcae620f6c0b83e2269baba990900e24"
+hash = "45c8b8546a8e5a4c4c02b019b613699878c087894e3fc7d044060a48a8dd0ad6"
 
 [[files]]
 file = "kubejs/server_scripts/enchantment.js"
-hash = "cc3bb1ef17a451621d9f95713ef58b4296176a9637701912ba3ec40da6b205d4"
+hash = "e97177a7142c3944a3a695326eb24ae29b44fef4f3e4ebec4bb6c62cc6547e21"
 
 [[files]]
 file = "kubejs/server_scripts/farmerscompat.js"
@@ -16766,11 +16770,11 @@ hash = "7ca4c2aeb68d59bd46b4735e90100d4eff83da2b27d61b23aae081656388efe6"
 
 [[files]]
 file = "kubejs/server_scripts/removals.js"
-hash = "49222b0931197190eaffe91f21329bc05821f4e770386c7fc42908bb80f15004"
+hash = "2837fd8a36222fbb2ed5eb81a74dcca50d22de827f6dad61fb55be30eeca63b9"
 
 [[files]]
 file = "kubejs/server_scripts/replacements.js"
-hash = "148e34cd05eb356e98780a892f2863b3eb91ef9e177cff77f9f0575975886476"
+hash = "48f798d6cbbcdb8844e8ea227b1a007ded85aa403723eac4ae8b103c0e1a9d27"
 
 [[files]]
 file = "kubejs/server_scripts/resourcegen.js"
@@ -16778,7 +16782,7 @@ hash = "64410141e6a6e0416939d7c2ac73170bb0a1ec1a6c05941823649a02ee11ea20"
 
 [[files]]
 file = "kubejs/server_scripts/server.js"
-hash = "fc5edd52df2f17af9fb6039e0c80681eb01a68bd5e8cc3c82bb7f7b96f0681ba"
+hash = "0ade86c1d7f3fa30db33a7453552d8101604b5aed10d0de9410af409e7f00368"
 
 [[files]]
 file = "kubejs/server_scripts/tags/graveReplaceBlacklist.js"
@@ -16794,7 +16798,7 @@ hash = "4f9be69c0090d0a979d22ee58b1a457796b13d55202b588fa9ad113057049f90"
 
 [[files]]
 file = "kubejs/startup_scripts/startup.js"
-hash = "38294f243bb88f85b2bb777e3dae1ff03e64835e5918854d27f9d2a22789fc53"
+hash = "ee2dd74d8c824ae9db714a012cf0a70efbb6200c5b260189e7708c73234a79a5"
 
 [[files]]
 file = "mods/Hephaestus-1.18.2-3.6.0.164.jar"
@@ -16871,6 +16875,11 @@ hash = "96fd4cfd832d4ce4be62a8999f93cbba591ed51902bfaf9f473795239c6356bc"
 metafile = true
 
 [[files]]
+file = "mods/autosnrails.pw.toml"
+hash = "f376062f91361bb405a3bdbee28d3df932ba06682ff4bbf6b280557c28f4adae"
+metafile = true
+
+[[files]]
 file = "mods/auudio-fabric.pw.toml"
 hash = "d07904cb2ba59e7c5223551cf34cb64cb127027a8a1168eccdd5e0444ecfd730"
 metafile = true
@@ -16932,7 +16941,7 @@ metafile = true
 
 [[files]]
 file = "mods/cccbridge.pw.toml"
-hash = "55146887f219369ced7e288741900d1f42f6eaab03f0de29e9078acad764b7dc"
+hash = "4798bb203c34b82803bbf4bb3334f57cbaa637f38eb0bd977d5f87b24a1b18ef"
 metafile = true
 
 [[files]]
@@ -17006,32 +17015,27 @@ metafile = true
 
 [[files]]
 file = "mods/create-deco-fabric.pw.toml"
-hash = "9713835275e6dc51239f479bc64ba86c9545e5e49ebd950e66524c9b0bf871dc"
-metafile = true
-
-[[files]]
-file = "mods/create-extended-flywheels-fabric.pw.toml"
-hash = "8b862fc839ea9889a284a497b069adfb85e18d161eb31785b24398b3f6b79b16"
+hash = "b4ea30790113e3492f50466ac7150019d7dcdf15502f62f59707fc918d44b9aa"
 metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "4dad59e6b08c49aa3a69571bf3d61c42d10ae4d4734712ca4993a2b2f3370d4b"
+hash = "3a138099307b37b4d0f09f94aa0cd16feb6c5e350e7f8066683eef2efc8f86bd"
 metafile = true
 
 [[files]]
-file = "mods/create-sifting-refabricated.pw.toml"
-hash = "362ac57c66146dea7ede43e9759f66d23ae2bbba0faf365e63b40228ea41738a"
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "67b2f23b641addde0a4e420ee6c1632e0d1c397bb38adbf7c6fa43492f4a6136"
 metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "dd10357df5d99c27cf89a36b7be3124e25097f85357d7df795089eb10f469a0d"
+hash = "6b8620b0a036005335688433d4535dbc4fec69a6b3b005be18fbe5f87815097b"
 metafile = true
 
 [[files]]
 file = "mods/createfabricreibugfix.pw.toml"
-hash = "728c7295b5ff649f2fe1de3141d78d2cda4e4134b5baaf1bf8b7813afe73fae2"
+hash = "2774c52d280e2310d877e433662049e8a5cd7625d6f1fa971870d1805ea3301b"
 metafile = true
 
 [[files]]
@@ -17299,12 +17303,12 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-create.pw.toml"
-hash = "fef224ed1917c5da84ee1744e0b39bbad8c00f095deeba8715500ead078009f5"
+hash = "34ec8d0fc9c4e5cb8d1ed84f18992cdedb4c419c53c6e631aac07966b1196cbe"
 metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "d7e0ecf1155bba963c60868f7ade9b8f7b01a92efe053896c4b6ff080e9df618"
+hash = "47ac73429360d09d1b25d7615486db28668e154c3e3b3d953ab9a00d3267ce29"
 metafile = true
 
 [[files]]
@@ -17410,6 +17414,11 @@ metafile = true
 [[files]]
 file = "mods/naturalist.pw.toml"
 hash = "19933ba2eddf9942bcdb564ed797c88bd1d5865b7e38f0ebd7b287ebfee8ff6a"
+metafile = true
+
+[[files]]
+file = "mods/neruina.pw.toml"
+hash = "c78db4693cde98e8985f204f0ebfcadb6f89b5745bf2ba4470406429b1e5ff4d"
 metafile = true
 
 [[files]]
@@ -31221,7 +31230,7 @@ hash = "8505137ae4c29b845a630caf75701aaa7980cd9cb6aaa3c35610539412402986"
 
 [[files]]
 file = "resources/createastral/textures/item/navigation_mechanism.png"
-hash = "847958dac888674c4ce798388d12e86eacb294f9b24a217dcbbe8e247d8fcef2"
+hash = "39a1c76dbb87cd15a4f851764b79b4dda33fff2b1216c46edee724191bfb54b5"
 
 [[files]]
 file = "resources/createastral/textures/item/olivine_sheet.png"
@@ -31234,6 +31243,14 @@ hash = "46cbe2f04a7b4855bb92378f760a91a6b7d1ea36880903bff3aa54d2235adfc8"
 [[files]]
 file = "resources/createastral/textures/item/pure_biomatter.png"
 hash = "7c36c74d826640877964ffd63c2f33490e1b57b6b2605438203506de196dea9f"
+
+[[files]]
+file = "resources/createastral/textures/item/pure_star_shard.png"
+hash = "d067d2061222b2374e52357bf88e2d242c3ed8263c9d0f4dba943ed7e1965cbe"
+
+[[files]]
+file = "resources/createastral/textures/item/pure_star_shard.png.mcmeta"
+hash = "3b6f31d9e9f1643595730b16a527fd168c1bd5d212c9005a0fa35b060bfd4bfd"
 
 [[files]]
 file = "resources/createastral/textures/item/questmoon.png"
@@ -31302,6 +31319,18 @@ hash = "d1cb5eeb514e2309a4c8d2533a2cbdcfa049987d3fcf35907e99bc90dc4a641a"
 [[files]]
 file = "resources/createastral/textures/item/radiant_sword_e.png"
 hash = "105b4efac15b86b9263ef3b257476d96997280a51803bf87508b0b39252a87d9"
+
+[[files]]
+file = "resources/createastral/textures/item/refining_agent.png"
+hash = "e68f3f4d2464f5b5d19360aeb7cd33669f2cebc2eefce43ebcccf3754a2168f1"
+
+[[files]]
+file = "resources/createastral/textures/item/shimmer_amplifier.png"
+hash = "8bfe1c21ff3bcbccc28a69cd6f151cb9e202e705ab8424ab0204bba2542ab5e0"
+
+[[files]]
+file = "resources/createastral/textures/item/star_shard.png"
+hash = "f0060e5d863adc69b0730e239d1c4079a937161769d5c07cff40893f6e5c86c1"
 
 [[files]]
 file = "resources/createastral/textures/item/steel_boots.png"
