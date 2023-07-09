@@ -218,7 +218,7 @@ hash = "1cc23e2f7170517c4e51584a836f7eadcba1760139e43504447df4da287428fe"
 
 [[files]]
 file = "config/drippyloadingscreen/customization/createastral.dllayout"
-hash = "e2101871b0438219d5b7f7c1d590298da7ef561743ee2c5407977ee786c9c506"
+hash = "063c229f8b82a7c5064ca425ab6515252f510027ba67aa476a0a61f4256ade20"
 
 [[files]]
 file = "config/drippyloadingscreen/locals/en_us.local"
@@ -278,11 +278,11 @@ hash = "e07782be59021cabfe5a09320add9bdb9aee43fdb72982274aba01d14f04b6ff"
 
 [[files]]
 file = "config/fancymenu/customization/.disabled/greg.txt"
-hash = "8fdd23718d89050e232a60f0f571326ab5dddc7cfbfbaf15744a70e99d279429"
+hash = "c31d729fcc0340653768540e4f41aa5192cd759bdfe5ee495fdb69f270ded583"
 
 [[files]]
 file = "config/fancymenu/customization/disclaimermenu.txt"
-hash = "1101717dcba65b65787c2a7d905c68909a4f43f110ac87ae9d32fd6ecc54087a"
+hash = "db9b121cfc5677ceff49e4cdfd804d5adc2b115636a64ccd32da6ac7621124f0"
 
 [[files]]
 file = "config/fancymenu/customization/music.txt"
@@ -490,7 +490,7 @@ hash = "9ac9229a041c078a6e9c37bd1d6f9f5eae5cc604f53be93c88c22c56b4eb8542"
 
 [[files]]
 file = "config/immersive_aircraft.json"
-hash = "0281fd972a6a02977d985f58595609ce944d60cac06270323e48f50bd55d0f92"
+hash = "aabb7a1740c821b55da9830e494e208d8dd78e0ea8ac67823c2858457e314183"
 
 [[files]]
 file = "config/indium-renderer.properties"
@@ -742,7 +742,7 @@ hash = "e053a93f7e325cf849568e5dcea67c2eeabccd8bd1acd573ef828f28e46d2fd8"
 
 [[files]]
 file = "config/servercore.toml"
-hash = "fa8f7f0c9e807fae5781da404799edf73ee13b6b57fc15e92313f679a254a87c"
+hash = "8f7dc87cc69dcc8357df2411b8a99223de074fd60f4998a553ffe062bd82a82e"
 
 [[files]]
 file = "config/sidebar_buttons.json"
@@ -2130,7 +2130,7 @@ hash = "121a8491f3d9648d4968763947320e298e6a1f9a9fa89c4e16e4e1f843d7020f"
 
 [[files]]
 file = "global_packs/required_data/zLaky Core/data/ad_astra/dimension/mars.json"
-hash = "197964042fabe02cd5266220f9627e28b14a60c1c9283de5f163e4a209f8c223"
+hash = "cba4a88ffac2cba2ce933846b980f19be8645ee55d3fcc12ffd87a0b7b7d6b24"
 
 [[files]]
 file = "global_packs/required_data/zLaky Core/data/ad_astra/dimension/mars_orbit.json"
@@ -2138,7 +2138,7 @@ hash = "6b7fb53678bfc956a245b3afb97ba49439376ce19efa800524a4cf0c6eb73957"
 
 [[files]]
 file = "global_packs/required_data/zLaky Core/data/ad_astra/dimension/mercury.json"
-hash = "76d39e75ba2b0cfc429a3f05960dbdafe6efec9d7a61571b845afb32a67a4866"
+hash = "82ecf3f8d875f2f1c5884c2aa65b23e68812d63da1ca64e56d4f355c423b82d5"
 
 [[files]]
 file = "global_packs/required_data/zLaky Core/data/ad_astra/dimension/mercury_orbit.json"
@@ -2147,6 +2147,10 @@ hash = "6d0d0b9479c9dd6e959df41711936952f3d776be8229a67c2d23669b3b91bdb1"
 [[files]]
 file = "global_packs/required_data/zLaky Core/data/ad_astra/dimension/moon.json"
 hash = "0d5312289469d8c1c189ded58e94f49c0c5614a32205c2f97173dd13116274c4"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/ad_astra/dimension/moon_debris_orbit.json"
+hash = "d88522b2aa07afe46bee0fa3b603964c5248a901969f07e751fd88b388f7f53c"
 
 [[files]]
 file = "global_packs/required_data/zLaky Core/data/ad_astra/dimension/moon_orbit.json"
@@ -2263,6 +2267,10 @@ hash = "1e20902267986d2539b1b11da95029c0b1e372c1796aa6d190c19e37ffa5ff25"
 [[files]]
 file = "global_packs/required_data/zLaky Core/data/ad_astra/planet_data/planets/moon.json"
 hash = "7897ddd4d4dffbe4ddbd903a8a0970f952c3839c2d534be6c09f4be6a9b363b0"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/ad_astra/planet_data/planets/moon_debris.json"
+hash = "a82287f416f2aa6e9d208ddba5b2fd789160a5e9bbb17219caabe4521f0aba26"
 
 [[files]]
 file = "global_packs/required_data/zLaky Core/data/ad_astra/planet_data/planets/the_end.json"
@@ -3357,6 +3365,10 @@ file = "global_packs/required_data/zLaky Core/data/createaddition/tags/fluids/bu
 hash = "f570ebc1a100cb9c25f8bd6abb06af511095c8fb09316a0b8280b04953f0dd73"
 
 [[files]]
+file = "global_packs/required_data/zLaky Core/data/createastral/dimension/moon_debris.json"
+hash = "4a6d33d2da7568aa6315e6be0a2f6ca6699b5ce330404b8378f2a6ca61edf579"
+
+[[files]]
 file = "global_packs/required_data/zLaky Core/data/createastral/machines/distillery.json"
 hash = "76d216a3b8bdb8d5e8f4e6c43480bd9b1265cfe362e7ea2aff1726092653bdcd"
 
@@ -3399,6 +3411,10 @@ hash = "2f87262838a0862020a9854c2462afe2011dd9b8c7e76a76462a3376c89e77d9"
 [[files]]
 file = "global_packs/required_data/zLaky Core/data/createastral/worldgen/configured_feature/oil_lake.json"
 hash = "92fd0ca314aea452fdd98ddef813819c36d80af233725a09d90f00e38eb6ef82"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/createastral/worldgen/noise_settings/end.json"
+hash = "44e6ebf339a36196be3d8afa1b78dabd9811e9b58ce0ab569c864b5fac103199"
 
 [[files]]
 file = "global_packs/required_data/zLaky Core/data/createastral/worldgen/placed_feature/crystal_pillar.json"
@@ -3477,20 +3493,8 @@ file = "global_packs/required_data/zLaky Core/data/farmersdelight/loot_tables/in
 hash = "9fc1e8573eb8b1c9dd4702d74861d0ad5a3f7634d44c070d2070d8670dc392f9"
 
 [[files]]
-file = "global_packs/required_data/zLaky Core/data/immersive_aircraft/recipes/airship.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "global_packs/required_data/zLaky Core/data/immersive_aircraft/recipes/biplane.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "global_packs/required_data/zLaky Core/data/immersive_aircraft/recipes/gyrodyne.json"
-hash = "14caa00512cf0bac0869f58ceecf1b866575079f8c7728dc4922b960f29237f1"
-
-[[files]]
 file = "global_packs/required_data/zLaky Core/data/immersive_aircraft/recipes/hull.json"
-hash = "8425fc3bbf931e786df4ec04dd4d6bc0301aac96668e876f341fbaba8da6b475"
+hash = "d576b31d3d5ecf9d509f0c4d88427049e221e8e6f1f5367c6644776cdb112757"
 
 [[files]]
 file = "global_packs/required_data/zLaky Core/data/immersive_aircraft/recipes/propeller.json"
@@ -6162,7 +6166,7 @@ hash = "e7d676ccbcbcb0c7f7c49286c5199c0bfc32304b8b941cbdbd65e0cee8728a66"
 
 [[files]]
 file = "global_packs/required_data/zLaky Core/data/incendium/worldgen/placed_feature/infernal_dunes/delta.json"
-hash = "c5348ea726738ba09e78753859d8223981f72f19c5bd87c242db776de503567d"
+hash = "5956097584b0049ff4307f95a91cad8b72b91d9f0385d6b3a5f0201ff8fafb9e"
 
 [[files]]
 file = "global_packs/required_data/zLaky Core/data/incendium/worldgen/placed_feature/infernal_dunes/dune.json"
@@ -7549,12 +7553,1036 @@ file = "global_packs/required_data/zLaky Core/data/minecraft/worldgen/placed_fea
 hash = "a0022ffcdbe1d58129978eb11756af62fccbd602ad6b21ef8ea681105db926cc"
 
 [[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/structures/destroy1.nbt"
+hash = "764bf4be334511c98b53ae0a6daddaa0d85bfb633d9b78a1d408a394f358c774"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/structures/destroy_start.nbt"
+hash = "10232216c76725ddaecde6fd9626f39491157e2c9e719c2972c298e063a8ac4f"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/structures/gateway_platform.nbt"
+hash = "2021a77630857352fa61a06ac475c8099f444f287d66abdcad22223df7513773"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/structures/gateway_platform2.nbt"
+hash = "d09b58e7c6105aa6168f56e8e1e7be95ea880a665cc193b97158bbb9b140fae4"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/structures/rift/bottom_start.nbt"
+hash = "b4bf77184532cbf32f9b4996a116cdf87713bc5a0c7b870d8d0f9f6a3a870f74"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/structures/rift/gateway1.nbt"
+hash = "6e8f4f10550db0ceb46d8233a558de475de92e5fa08416941f78b8c254540907"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/structures/rift/gateway2.nbt"
+hash = "d7e159028d72eb0acd199598ff1ff02d3b68ebef9ba4fc83b50420ba1c4d1985"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/structures/rift/gateway3.nbt"
+hash = "4666eea421cdff0e7eff00e709a4946a3aec789d64898555585b3a3bdd389d29"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/structures/rift/gateway_neutral1.nbt"
+hash = "4a4ba3f0e9369dc8530559569a29dc48c04df9a4b5462722643efb735d82311b"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/structures/rift/gateway_neutral2.nbt"
+hash = "fc7dec372a75fc40e3a73fdfffecb2edd3cbd29b93683540860c32745c793332"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/structures/rift/gateway_shadow1.nbt"
+hash = "9507e7a85ac56121334b0cd1dec8e36fc3c12deac800d8ff23e10c89e4e5321d"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/structures/rift/gateway_shadow2.nbt"
+hash = "fad02d1693d750d0023692aefc2adfc829c3e27154787878e4c0cc4382eba6cd"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/structures/rift/start.nbt"
+hash = "bcc3752bf8dcf930844d4976294cf981f2b923c7b5ec9398fd31ac84db5d0c18"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/tags/blocks/amethyst_cut.json"
+hash = "3d42760417e00146000e4de39a0dcb69ca71d5549698960b5783d44ee9502cc7"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/tags/blocks/amethyst_dx.json"
+hash = "5882663a792d4bfec64cd5ed308a19b91264c20ef0bf1882689a6859ba974c00"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/tags/blocks/brain_coral.json"
+hash = "5243b7e3ea7078309214f8eada8e89278fa24a6c16311ad7c843a312ee030d0a"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/tags/blocks/coral.json"
+hash = "83a51a3c15e3eeebaa89bd7feadf22d775d15e125ec3dd5984e9909dedb6dee2"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/tags/blocks/crystal_amethyst.json"
+hash = "c075d7be78d432c41c1333bf1388c1b5cc36aeebffa41e613aae351ab48a1316"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/tags/blocks/crystal_crying.json"
+hash = "98b77b0a8ac34ca0434f403c0d382175977816d2d2d2a84953dfcd57f9f9598c"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/tags/blocks/crystal_obsidian.json"
+hash = "bb518b9373f4ceb47bcc802cbb7564ff3509766a7ed5e577f0d480a40cc015e1"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/tags/blocks/dead_corals.json"
+hash = "a0455915c80d945e98ba8aceb37d16886214c4fe1c02647ea70d533a448a59c1"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/tags/blocks/end_bottom.json"
+hash = "03e67a6b05c6c25451fb482d8b1b1a0c7c0f18151c14a0e0e5a3aca6d5f82b48"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/tags/blocks/end_soil.json"
+hash = "54654b7e483ed63eb99bcf81c82c8c3cb12ce9b184eb57ca85960adb657b25a7"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/tags/blocks/end_stone.json"
+hash = "248c4d604f4cb1048358c413fbb8997e2ce341c3e4dc09cd21e65cf60332b67c"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/tags/blocks/glowstone.json"
+hash = "1ebcaf93e9b9a468ca9baa8404bb142474d28804cec86418e254086b154d884e"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/tags/blocks/rift_blocks.json"
+hash = "98b77b0a8ac34ca0434f403c0d382175977816d2d2d2a84953dfcd57f9f9598c"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/tags/blocks/smooth_basalt.json"
+hash = "9be3492c7b6f1a8ead21b99a8a3cfa3e92e44a4e32c354daa2d460fdcc94042c"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/tags/blocks/void_air.json"
+hash = "0aacb751b64ab2527dbf9ba7f24adbd7e8caa499cf117823f0c7e96642499776"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/tags/entity_types/not_teleportable.json"
+hash = "06d332d2354fe4d321f24fa54d70f033d4f76ef532392d75c193bc2f4659f2f3"
+
+[[files]]
 file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/biome/crystal_peaks.json"
-hash = "4b3f9091db84b0820f9d194de203064f9ba7476c91b86fb957f35edfc2edc2f3"
+hash = "ec5c053c70c19e9a25649aa7d13008fde48fa48a5bcf290750a5607e4d7c1040"
 
 [[files]]
 file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/biome/shadowlands.json"
-hash = "9aad71cce8327ad54357470e0d0da32d18325d29d00288c208f1ec125a495290"
+hash = "fc182ca5d7dce2c3b3454ff8aa0ec8129ad5485f5511273bfda131e299959604"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_carver/canyon.json"
+hash = "9d2a0a55504e00bba9ac2eff985583442824edd990f6ef73e5c6ba252c3df375"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_carver/rift.json"
+hash = "ae5d5097c4da90bdc69bad74c52a6d36d1316e2ff3f91bf0bf24a195c2ed2394"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_carver/shatter.json"
+hash = "dff576b1031e661519b4697f7d1e8b5c63c65928ba083043d418b4a983d3ad72"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_carver/shatter1.json"
+hash = "b8c902b199f025c355f22f4a21baab4122bf0c8fe47a5c9b3e022493edbfd9fe"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_carver/shatter_huge.json"
+hash = "d2e6c2309c31e7564d3191b3997990ff3ed093636651e70d07355c96d7f59b89"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_carver/strip.json"
+hash = "1a179acf8d0cf6c6da22eca8985ee4cfe1732fc1ddcd8d13ca2e3939c26db8cb"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_carver/strip2.json"
+hash = "d4a91d5d2b19e9660b439a5e43616412e4b51a8b5dab99b93e7d16148f9ef80d"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_carver/strip3.json"
+hash = "75239ad58acc3ddb102923d07ae622f35ff5440522cb60fe21fc9b2f00de1b9b"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_carver/strip4.json"
+hash = "435a5125422a2cae11cf9e6484c4e267526c2b9f0e17209654c6f81446b5799b"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/asteroid_carver.json"
+hash = "18ad7d09f1e8739562084511ab9f0cc0fca139709c3dda415a4ca869402b834b"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/boneyard/bone_tree.json"
+hash = "11f2c2f6da468055831c772c83e0fcb922449d908f8a4c72230247d80f00939d"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/boneyard/fire.json"
+hash = "2c611a29037784746f8ca69ed15aa6200baf64a306b347f00bb4a0f979b952a5"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/boneyard/pillar_1.json"
+hash = "b2710ab3d2cfe53dc18ce43296972ea97081dbc363709d7f68c2adc238bbcb6a"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/boneyard/pillar_2.json"
+hash = "b03da82f75754171b3306afb26915e6f8b054d960e5002306e5992fc181024c3"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/boneyard/pillar_3.json"
+hash = "f38248e91c5dacebafa30aac7497b41468b0d50c0b7c50773209b51f0b685e14"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/boneyard/pillar_4.json"
+hash = "d0d9646613997aecfcb847d81cf6c031c63bf630747d9071a9d2042e8e37df75"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/boneyard/pillars.json"
+hash = "985adb2cb6aa2dd30e1efec5cb6588de42b83beae472abf8d156c27863ae93c1"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/boneyard/smooth_basalt.json"
+hash = "e719ac33a1d61eace7de029df23af85d479fc879794316b5f320e35b294f65da"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/boneyard/smooth_basalt_dx.json"
+hash = "7d249dfa8972b79fb4e80db853585b2afa172efc6e3ac34c2d9ed475a0a2983f"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/boneyard/smooth_basalt_more.json"
+hash = "1e65d22f2ad8de00c535b4471b82a6c3ae39a3f6787d123adc3a15872cb54201"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/boneyard/soul_sand.json"
+hash = "99c22e8b93010ca588270fc1bd56e29f746e6d1bd7cf071604ed91e733352a74"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/chorus_light.json"
+hash = "12857b1a0526bc0e34b50625290f4618ef139e5dd5298f1ccfc99d414cea53d5"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/chorus_plant.json"
+hash = "12857b1a0526bc0e34b50625290f4618ef139e5dd5298f1ccfc99d414cea53d5"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/chorus_quadratic.json"
+hash = "12857b1a0526bc0e34b50625290f4618ef139e5dd5298f1ccfc99d414cea53d5"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/crystal/amethyst.json"
+hash = "fac0492ad06fc91fcf84943ad2aa8e136362e31e2a29481420cdc6f17fb6b43b"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/crystal/blackstone.json"
+hash = "fdc4de8f15c63669c78e474d474a239986e0b93bceebcc4ab2587a0cb6946305"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/crystal/crying.json"
+hash = "906fd2cd4f821bd91ec85b48ff6a6a7d80ffef1dd367d3e8976fe5bc56b887cb"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/crystal/half_crying.json"
+hash = "48463974f8f2c374452640b22af87322bb16f0f0f0a3d1a2b78e7a37fd89502a"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/crystal/inverse/amethyst.json"
+hash = "7ca9235e9f0427a4d65cebe7456e7f6546eb87b33c7da1780dad1129d6644d5b"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/crystal/inverse/blackstone.json"
+hash = "9eec7639bbbf2cd3a7a8aa013e9d427542b334a05099a39c3832e293bdbfee4d"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/crystal/inverse/crying.json"
+hash = "140db0417dd84b7175097746f95c52142399a55e90a5626c74107ccafb74eb17"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/crystal/inverse/half_crying.json"
+hash = "031fa972d1d9da6aeb2a1d2854537ef3b8c653055e3055e5be8b3823b61cef19"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/crystal/inverse/obsidian.json"
+hash = "5379b5b65e37b9ca43456a401529dfc3b6b8f501e633e62896b86c93b7ae983b"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/crystal/light_down.json"
+hash = "2f4b13635e0175f9eee92896bd21ddbea4473c3022422e8395b533ab6b2927ee"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/crystal/light_up.json"
+hash = "2f4b13635e0175f9eee92896bd21ddbea4473c3022422e8395b533ab6b2927ee"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/crystal/obsidian.json"
+hash = "9c8b944cc0b49e1e808d39b31bef6eb513aa3531d49e0e53023260bb527815f3"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/delta/delta2.json"
+hash = "23e4d151d850c325358ed87bb411f06bac61dcb587a501836a0b7d0eef29d9f5"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/destroy_everything.json"
+hash = "5cf173e10cb54b0c1c2522bf9d73e31bc2023f2f97c2f0d801178dff05deccaa"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/float/asteroid.json"
+hash = "dde8b634fe50ced7b5de8e430667066afa7ec23835203813c674ec24dafb4842"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/float/asteroid_special.json"
+hash = "2305c933ba7746c27d4bdc540dc42dbeaf1866d942f21b6dcb07744dfabe53bc"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/float/end_island_decorated.json"
+hash = "9c13489923523b54f395a7aa9c7f044d179efc60689878442e4f2c16b21270f0"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/float/end_island_decorated_void.json"
+hash = "9c13489923523b54f395a7aa9c7f044d179efc60689878442e4f2c16b21270f0"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/float/inv.json"
+hash = "50ad602a0318c987d9f10c4d4e48984bda2a9341ee4cdc7f9cd27f82920ee482"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/glowstone/patch_start.json"
+hash = "06bd6e2acbc295f83ca58126c1e6edfd647d815a7369e220fa15fe1b8b69be6b"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/glowstone/roots.json"
+hash = "e1b72194605614225c26b58635b8e5760f521fdcb638b829aaaee47d13d23980"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/glowstone/roots_first.json"
+hash = "1223529b818a88593a184347fc637c3f7540cc775f5d14647c33a296e47cbe88"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/glowstone/tree.json"
+hash = "53ece5cd422e7d61ef80935f93ac48855f3e5cd3c3c647c8c5155062998a8db2"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/glowstone/tree2.json"
+hash = "9722a5ddd84afbc735cd8886386e95f15e5378407d0a4710878fa66d2564df54"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/glowstone/tree_d1.json"
+hash = "8a31a9b8a10566fc016de41d4980275ec7d5a48e087b12941432cc9cdd087496"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/highland/blackstone_bottom.json"
+hash = "7ae417e60560b76d1f7016d363dce983e020ef08810279751e79b7baefcb1a32"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/highland/blackstone_stalactite.json"
+hash = "17611864d2fdce2b6ac30ed332325548c4d4381728ae6065bc9fecad0351dc25"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/highland/blackstone_top.json"
+hash = "4233fe3d03cab96e5c42708a7521cdf81c598026add5e44dbc1da57e66c956aa"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/infested/pillar.json"
+hash = "58849c805f00c486db0499fe8c9264ad9cb1f393640d89ba9ebc92c33d97b901"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/infested/pillar_down.json"
+hash = "56b81a9d059acfa7d8bb9c7dd929134658a224fc6a23717168acdc9e13ed9a87"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/mountain/chorus_plant.json"
+hash = "12857b1a0526bc0e34b50625290f4618ef139e5dd5298f1ccfc99d414cea53d5"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/mountain/mountain.json"
+hash = "6225c43bd15387ddb9038068e3a8dffb6dd85f6a43cd6814d6f89a68df7bd1b8"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/mountain/mountain_inv.json"
+hash = "50ad602a0318c987d9f10c4d4e48984bda2a9341ee4cdc7f9cd27f82920ee482"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/mountain/mountain_inv_less.json"
+hash = "50ad602a0318c987d9f10c4d4e48984bda2a9341ee4cdc7f9cd27f82920ee482"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/mountain/mountain_less.json"
+hash = "6225c43bd15387ddb9038068e3a8dffb6dd85f6a43cd6814d6f89a68df7bd1b8"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/mountain/pillar.json"
+hash = "c1ffee61ede894efc6e0c82f572d4349a1163678d829488e85356ab9fe97adb5"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/mountain/pillar_down.json"
+hash = "a0757efda26c355d0fd565a296b17ae947513114d7de136e3d18ed8fc4cb9aa5"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/rift/base.json"
+hash = "fadaceed03b87a334541b180e467359aa9d8426cc59c4bda2e544ab7e5371139"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/rift/blackstone.json"
+hash = "9eec7639bbbf2cd3a7a8aa013e9d427542b334a05099a39c3832e293bdbfee4d"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/rift/cracks_1.json"
+hash = "903d3da299321f37866ba1460a3ed1e345d92e3b78aef22fcd99848aaacc8235"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/rift/cracks_2.json"
+hash = "903d3da299321f37866ba1460a3ed1e345d92e3b78aef22fcd99848aaacc8235"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/rift/cracks_3.json"
+hash = "903d3da299321f37866ba1460a3ed1e345d92e3b78aef22fcd99848aaacc8235"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/rift/cracks_4.json"
+hash = "903d3da299321f37866ba1460a3ed1e345d92e3b78aef22fcd99848aaacc8235"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/rift/cracks_5.json"
+hash = "903d3da299321f37866ba1460a3ed1e345d92e3b78aef22fcd99848aaacc8235"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/rift/cracks_crying.json"
+hash = "17eacdb2d639c77f9540393497a352103934987f304e5c389ef8bc708de4237f"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/rift/cracks_crying_2.json"
+hash = "17eacdb2d639c77f9540393497a352103934987f304e5c389ef8bc708de4237f"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/rift/cracks_start.json"
+hash = "f7aa29fc6b3bf2022d72e88521f6871826dc4e358fb36cdb615d6325797d4a20"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/rift/rift.json"
+hash = "8af782394e69ba13e856ba3f139628282fc112bc5a2efd05d4a228e17289b26e"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/rift/rift_crying_obsidian.json"
+hash = "f31b0e8472fa85e1ed1634c0f345b492a6c8968daaed713e0c9d913d36976f04"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/rift/rift_gateway.json"
+hash = "06aee9a9e31b87cac5145003d2f5a03783f7195fc1f8a7ff0c3d22f327ed5d04"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/rift/rift_obsidian.json"
+hash = "d587c30e544c375acc0b3cf9d0bbb3bfc5059a48f95f786685ecb369087cb92e"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/rift/rift_obsidian_spread.json"
+hash = "382def12cf9dd7747ac4bd607eb22528d77bdb004e88e95d43d8873de0b34082"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/rift/rift_sucks.json"
+hash = "8af782394e69ba13e856ba3f139628282fc112bc5a2efd05d4a228e17289b26e"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/rift/toast_feature.json"
+hash = "2a6403b097480fba414750646b202112356edeeb3f5cc4762ea9dd51afc5ee6e"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/shadow/amethyst1.json"
+hash = "d7fd54117828666409639ca5574fc5ad6cda4d54db73fd946867b791b6edacd5"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/shadow/amethyst2.json"
+hash = "d7fd54117828666409639ca5574fc5ad6cda4d54db73fd946867b791b6edacd5"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/shadow/amethyst3.json"
+hash = "d7fd54117828666409639ca5574fc5ad6cda4d54db73fd946867b791b6edacd5"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/shadow/amethyst4.json"
+hash = "d7fd54117828666409639ca5574fc5ad6cda4d54db73fd946867b791b6edacd5"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/shadow/amethyst_base.json"
+hash = "33bcff7c1e8aa952aca74e6a61d46d42e922527228f5459abf32d1b96dbbbad1"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/shadow/basalt.json"
+hash = "e3301fa4e42d244600e4c66c920841bbcacc0aee81f80959b957f83d5930243f"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/shadow/blackstone.json"
+hash = "caf199540bbcf18e4f2dad53c09dc14b1bbdfdf11d2762a5f268a76b40f293d8"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/shadow/bone_tree.json"
+hash = "352bf97b789fe85afed52532d7d20c1fc84a946ea8f646e95d7a34ca80176ca6"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/shadow/bone_trees1.json"
+hash = "84a72d245fcaa22ab015ed6b6de8f11cd590066edc20a0de873909063e0d1875"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/shadow/coral_ceiling.json"
+hash = "a30ba57b09f3a54a48c7056fa218e8aecb503afe59426df6e1c484c862baab31"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/shadow/coral_surface.json"
+hash = "c390014572f84664e97697c38c7eeb43c69f56e88c6c6b0dc165912256ae6845"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/shadow/droop.json"
+hash = "f7fd526665248e7bf6f935e6a5547bb3ae096c7b65a860e712515a16682bb06e"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/shadow/pillar.json"
+hash = "42d6d884bf501e250cb5b92da67b015ff82dae6f919876cc33e9d64db0bdc7b9"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/shadow/pillar_down.json"
+hash = "f640bb1cfd3a270a7a879aeb53f35629d1b758859d73fd383c7dcbca9d95954e"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/shadow/simple_coral.json"
+hash = "6eee42f130747161ffe09b0bd475b6c093787bb20ad37e7d1dd4cd5e511ffae0"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/shattered/basalt.json"
+hash = "dd72985465de5db190485fc9b20aec1fa2cd72b14c61cb8306a7908d99e832e6"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/shattered/blackstone.json"
+hash = "24176c247602f489cd41b1c0d7bc22dbbf06cce3099768abf419e94f0ea9fe06"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/shattered/crying.json"
+hash = "896ce3c0e32054354a3584262f8cf762a4b21d3884465b11a64b4899f0a64e4b"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/tar/base.json"
+hash = "dbdad17f339157d6a3ba1a14f9ffd1576b858957f71f3d84fb352d2f877e07e7"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/tar/cracks_1.json"
+hash = "824cb06431b8b1c594a535153cfc0e8a6cb162f80e08f7b24afdb1c4e9621954"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/tar/cracks_2.json"
+hash = "824cb06431b8b1c594a535153cfc0e8a6cb162f80e08f7b24afdb1c4e9621954"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/tar/cracks_3.json"
+hash = "824cb06431b8b1c594a535153cfc0e8a6cb162f80e08f7b24afdb1c4e9621954"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/tar/cracks_4.json"
+hash = "824cb06431b8b1c594a535153cfc0e8a6cb162f80e08f7b24afdb1c4e9621954"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/tar/cracks_5.json"
+hash = "824cb06431b8b1c594a535153cfc0e8a6cb162f80e08f7b24afdb1c4e9621954"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/tar/cracks_start.json"
+hash = "3542ac4f51f5433e4a7ff1a815ba56351cc37308dc8d16ea0abe1cfd5c476b51"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/tar/glass_column.json"
+hash = "ce64a9cf49e0b39775632e127f92cb9ae60d3a6d9d69130ef9311107ad2142ab"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/tar/tar_pit.json"
+hash = "6ed81f0f0d0cfd96227abf2786bdb36bcf53189ced1f731c50447a34e6085e54"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/tar/tar_pit_glowing.json"
+hash = "7c684ceb238a812568770844308d83f1ccef1319df6071669b36626363bd3bcb"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/tar/tar_pits.json"
+hash = "e732e276b2b60e2cb53166b9c58a183417e67adda3e49dd0779c72722e247be3"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/void/void_94.json"
+hash = "75083d74865206cc9bf15f0a8c123e9f848bf37f9ebfebaf70fb32976ca8e3d4"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/void/void_95.json"
+hash = "03f2097e585628513456a90b7f852c85ac27a39007ea2f0bde68d2f99f992efe"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_feature/void/void_96.json"
+hash = "798647a35eca26efac9419df185dd91fdc7de52c0dcdf9654058634f8828963a"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_surface_builder/blackstone.json"
+hash = "e80f93dfa055cf5f090603a2f87f098d303177a9c9bc3b95b422a544d6ab7abc"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/configured_surface_builder/coral.json"
+hash = "dce9286611f75ae17e30ae4e69b4f69c43543c6736ce45114f743190dbfb4c18"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/density_function/depth.json"
+hash = "8167af3395e0aeea90b3d0143cd2200139ad8fa8345670ed353722123012cd40"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/density_function/sloped_cheese.json"
+hash = "d99d314c6343f7b6c690e78ab6280a3ac48f80e28b16222fd62cdef68e65f5b1"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/noise/crystal/surface.json"
+hash = "60374e689f013cf0cfb7e86e855bdcda7cbe7cf3483f017831255b91e9429a9f"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/noise/shadowlands/brain.json"
+hash = "06e961a1e6d8793d928552ae29a6b61184badbccc2f06c50e1e23a8c2ee8f880"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/noise/shadowlands/bubble.json"
+hash = "71f82f48e715007cadbe89b5d522cb9c5c446b5197c53a25115f6d05adf94219"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/noise/shadowlands/fire.json"
+hash = "ddfd7239037e1170780f63605f861ec02423b331a7045404cc3215af82503ac9"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/noise/shadowlands/horn.json"
+hash = "06e961a1e6d8793d928552ae29a6b61184badbccc2f06c50e1e23a8c2ee8f880"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/noise/shadowlands/tube.json"
+hash = "a539f78084fc2ebc80ddaf7888cf7ed0c619ecd6903aa6e1c4049e34afa4633f"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/obsolete_feature/crystal/amethyst.json"
+hash = "16e5ef8512f0261a749e38bca3e17fd8a54e9a6ad869039c2b827a40fc92ff38"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/obsolete_feature/crystal/blackstone.json"
+hash = "b7162bd7c31d23f17d862ecae1f53b03dea46d5c613a57445ee7773efe823b68"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/obsolete_feature/crystal/crying.json"
+hash = "5161d49fbc4cb03fba1da94ce7ef23aeaed4ba1880c8a630162a1c2072b5fe6f"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/obsolete_feature/crystal/half_crying.json"
+hash = "df767988e9ce8b08b2f7a4ba6151275af8f4077230cf41996040793c6f54ce68"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/obsolete_feature/crystal/inverse/amethyst.json"
+hash = "a6e8d69ab46a8a38df6ed5f58825393f0cd5c4f3c43f6b83b3f1ab5087798003"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/obsolete_feature/crystal/inverse/blackstone.json"
+hash = "8d3fd9d0a563b3b3f3ca5626bc6e17e26de6582d5ea355af8c972b71247fc598"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/obsolete_feature/crystal/inverse/crying.json"
+hash = "094dbd1609d8db47e13c5b8c0a298d95f348be6a8699b4d8a4cc25e1e470cb53"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/obsolete_feature/crystal/inverse/half_crying.json"
+hash = "ed407c33e1c1055370f7cad890d385324c21f82ed2b5a5f78d699360f943f215"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/obsolete_feature/crystal/inverse/obsidian.json"
+hash = "374dbfa9d4c9acc124014e954b6872c8ae161c04e1e23f4bc6d639be97f5ec15"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/obsolete_feature/crystal/light_down.json"
+hash = "46df8fac66493a2844f75c5bded5d35d923ce5ad16972849257c689a309dea29"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/obsolete_feature/crystal/light_up.json"
+hash = "39c569a7dae533ef51193ccd322b7bf8af5a8da0da9d83cf4c1cc5e50caea5c4"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/obsolete_feature/crystal/obsidian.json"
+hash = "5f0eee23c1d51d7f1584e8427e8f07a0b3f967f843eb075d6971363e0a29404a"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/asteroid_carver.json"
+hash = "f4f8473c54c308ac3e2f8a0e130d442f6c77a7314583ff9c204b0ac4e3d2c04d"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/boneyard/bone_tree.json"
+hash = "9a573a10b851865257cf22f38f128f4a46b8530218936fe0e782864a488deb1a"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/boneyard/fire.json"
+hash = "2960154577ff5fbf3fe4506b747b35f413762955abb35c5e2d9016f3afd5013c"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/boneyard/pillar_1.json"
+hash = "a048a19bee5ca9f12e6219bc2691e9b4af6c55f65db5bcee2af65335e7a3f49e"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/boneyard/pillar_2.json"
+hash = "1f4297699f76c88066df899dbe8d09c1ceb542a44459af51fd87cadee0287c05"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/boneyard/pillar_3.json"
+hash = "84c44bf15d568d99c943ca867c0ca82293f9b1e777353734039f2dc44fea56d0"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/boneyard/pillar_4.json"
+hash = "2f243b25a17f4b2074ab4c71df524236643ff8d71f362c7cc74e723fc4e8883e"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/boneyard/pillars.json"
+hash = "cb96b917b306fc2306ba9ff189a277e336d923ee437e47352de4df573d9aca7a"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/boneyard/smooth_basalt.json"
+hash = "30cc29fb81335574c78aa8c0abfdfd76764330ffde9bc97b014b549e661459a2"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/boneyard/smooth_basalt_dx.json"
+hash = "ab6f72609a2e267368c85c0658b99824da207852d52d36a59ef95bf54eef9784"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/boneyard/smooth_basalt_more.json"
+hash = "1d7e277b7c0cfac4e5c8d2cb965d848a09bf6e444e95fc0c778faee67f735412"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/boneyard/soul_sand.json"
+hash = "54e873f5e6ccd76136fa93a22826529861b0619c83c8aed13d8b1e43043dd29f"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/chorus_light.json"
+hash = "fd79ce09d52d7e0226fe22be4b3ebd90f202a6d7ed19b6e0a1e4c8fda1195990"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/chorus_plant.json"
+hash = "ba4563104b537445f94843bc21d2908ae28f4ce62571fb0e29e2430f18bfbd31"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/chorus_quadratic.json"
+hash = "318406741364bbb7efba5da176ba79d0dba3317245406b2ef1127b46380e3740"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/chorus_variation.json"
+hash = "27aa7d231b1d81e581dcd783836d07e734823a34068d847c926fb2634c2b3941"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/crystal/crystal.json"
+hash = "0c9a88a732bcb15e2cebed7d9b26981dd254647ff053f329fce6590d9721d811"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/crystal/crystal2.json"
+hash = "e3e05f5b30b81c6c45f2529b234662df14bcabbf026949465c4b0f2a2328988a"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/delta/delta2.json"
+hash = "227ce10f48532d7b59efe883c4b51b54d23cea6fb08bbd56ee881dfa36215d3b"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/destroy_everything.json"
+hash = "3e55edbbebf85bd47c234bdf9e37a1028e238e966c2aa2c7ee85c5fdeb4beedf"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/float/asteroid.json"
+hash = "e07abbb14fd9b332d8f86fdfa5058d1ebbc5de7d03d058a22a200568ad0445df"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/float/end_island_decorated.json"
+hash = "c6675dcb66f5f505fedbf05a1cbefe7ddd69878e24ef6507eaa2aafdb57cd8db"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/float/end_island_decorated_void.json"
+hash = "00caf2ab6934f92f975b03671137fd618765fe4f211efb14cd6ef60fc853736d"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/float/inv.json"
+hash = "f8e65d659815db891387d797a1c37370aa32f002c37b904e2c2dd3996c56cd3b"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/glowstone/patch_start.json"
+hash = "2ad11648b7214f51a482531a9e6b04debcb3931842049fc353d5637c1be30826"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/glowstone/roots.json"
+hash = "b11a4b3122d1957a6f898a0672488df8f5272fa485816b5bcaa04e7ef1b1877d"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/glowstone/roots_first.json"
+hash = "a0b9c7d7bee9c9e2b9afe40936804b41400e5e66788e1c506927c2fa5b8463ea"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/glowstone/tree.json"
+hash = "542e0a16eb5a1ba8fefd3a4f75c8b43208d593c8df4316e511134faedeed99f8"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/glowstone/tree2.json"
+hash = "1965ae70eff2ef0cea7eb57780b3b3a15ca587dfe7bb3957912caf4d4cec760f"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/glowstone/tree_d1.json"
+hash = "779ff20ec5f718632cd8a9c316c5acac476183167e3ce6a0d51849a1dc554304"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/highland/glowstone_patch.json"
+hash = "1727dbfcd11fe9fb4765b69e6b03e2d1d1bcd69adc1c5cbbc03be64331e656da"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/highland/glowstone_tree.json"
+hash = "56050c4cf9d1b0d5df716d156d135281e272b1f2469d0dfd2755198c728c5ddc"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/highland/patch_bottom.json"
+hash = "6c41ebde97e824b58c9af9e4409964bdc5733f421c481000c448d424fe17eba1"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/infested/pillar.json"
+hash = "8f62b5879f71aae0af770b3190f52dd2eaaa505c9a922ea7cdf741c46b0d303d"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/infested/pillar_down.json"
+hash = "486036463a8992878a56069286863f0e76d2f6fe689f01e176a8e97e8d2d615c"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/mountain/chorus_plant.json"
+hash = "9952b1e5e8ad599dd61ba826362f52936b027bff586b62023e58e4fab3d2f42b"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/mountain/mountain.json"
+hash = "6e13adb5fa88740c3a1f2353df5e6f22b8af5221b78ab7a2bce4db901b7657be"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/mountain/mountain_inv.json"
+hash = "9ba6832f6f849e73a4a84ff058d8b2cf549458c42545b8037176efce2740eeff"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/mountain/mountain_inv_less.json"
+hash = "735633533581a79be56574f0342bd21dea810d553f9a15473aa3c8995214c400"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/mountain/mountain_less.json"
+hash = "004f85ac7564f13ae2fd02bbcad05eb9f493d03bd7ef86ca82872ef72b969c44"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/mountain/pillar.json"
+hash = "40e968b09a81efa8df0f6d2d4fbb811d2a2a3443872dbcf4fd0ca2a110d25567"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/mountain/pillar_down.json"
+hash = "d9236ccda3ff72b033d16f2331f81c0cb5a16d01051070636098a9e4de3ac881"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/rift/base.json"
+hash = "655be48b5af07551be8401b355c5c10acdfcc97b1f9b7eb3a748ee0ac2183a4c"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/rift/blackstone.json"
+hash = "6f79818dee2f4f081825dccd1883b2de032349bf3c05240532b499ab18d21034"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/rift/cracks_1.json"
+hash = "f4c60a24497ae0f18e67ecc7b47c1ba37357df6c0b6544578900566fdee32aef"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/rift/cracks_2.json"
+hash = "055b693e2899210a0561a3a04804c802316659e872840181951fbf0f5e716bea"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/rift/cracks_3.json"
+hash = "cbb4613d8cd5ee1c21100dad9e50a759d8d896b9e359a6216c5b6055d3be69d0"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/rift/cracks_4.json"
+hash = "43fe90decf232afbf21dbf83b228ec5b5ce521d1f87e80ebef6bb829ba71e6c7"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/rift/cracks_5.json"
+hash = "d8ecc9b9e6c48401d36d9892733da638672b11c30e2458a47f8753ad2f0fa07a"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/rift/cracks_crying.json"
+hash = "fcace3b4a206a2e053ceb364951d9fa28f71d92b81e962e28095407f72d8b71f"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/rift/cracks_crying_2.json"
+hash = "09fe6ae64e7bcea712067d795ed4e4df7d82665438f6a2157138b2515bc64edd"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/rift/cracks_start.json"
+hash = "c3a6a1f9550314eb0460ea2485c051a64c9c9eb0e4442bd5dd0af9356710be78"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/rift/rift.json"
+hash = "cd6aa31225c82d24c858c9116c52b651278b1df2bbf43a5181b9cec0e32b8dc8"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/rift/rift_crying_obsidian.json"
+hash = "9fbe034629dae91a8c34143df0de67c0d5f82fe221f1ecc56a5c10b84da9b2e2"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/rift/rift_gateway.json"
+hash = "9e3958e76e8144870cb579120ee663aac36dcebf53a4c4546891069e80342067"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/rift/rift_obsidian.json"
+hash = "5391582e17c7b425c0af1ab32f4e2678b7035a8ee55ebede3b5a72f63d6ecb4e"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/rift/rift_obsidian_spread.json"
+hash = "1a96ba2adfe1cf5c72de128a73153705eca98f8e3a3abe7ea533612b2667df90"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/rift/rift_sucks.json"
+hash = "b1bacb975d20be5fb8a55a72ae490ea26e50f0dd9259a089fdea31e6d05f9537"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/rift/toast_feature.json"
+hash = "1bfe5a2c24e4d22d059510236b1db3ff7179b5a2942c89ba8056810c59f7eb16"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/shadow/amethyst1.json"
+hash = "f91d4c2ead8be7b9fc9ce15f6b14e184d59e1ec100be2d847a692d989ec05481"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/shadow/amethyst2.json"
+hash = "98e476bdd532c2a1777b7bd6214da7de90fe6bc0f1e3c44ba81dd8d12843cbe9"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/shadow/amethyst3.json"
+hash = "2687081730bf69eb91fa606bb400528a4a5269890a108255215ceb9ed60723e8"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/shadow/amethyst4.json"
+hash = "d6b20b699759d88d91b7c7f36f24df90129ea06b0106a2708023dac9a60c27c4"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/shadow/amethyst_base.json"
+hash = "4fbde7cf2d3d063cf3304baa54f0b350f2c69264d759f5cf1b1d3c3ddaf7a92b"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/shadow/basalt.json"
+hash = "fadc74b245cc9ff7f8825f8bfa0996e3c15c7f06f2bc767138bc0f02a065966f"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/shadow/blackstone.json"
+hash = "676d272d56e1ee0d503e76451983bff05907704c890115c908c925b3f0b0faf8"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/shadow/bone_tree.json"
+hash = "5372f056bea444b5fc6c0651958ec156ebf266f6a0613712dbc5b06e566c8257"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/shadow/bone_trees1.json"
+hash = "c99db778aa0833f0976f4fdf12e3aa644fb05705ff4b0b418d603b35a9aa413b"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/shadow/coral_ceiling.json"
+hash = "1d76f7a59a8e31a319372e723b0bdb40a34e09636f488119780bb3bf28b8b441"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/shadow/coral_surface.json"
+hash = "58a52ebfb839de9a1d30ac960d6d285137d749594e27a36af4c471467d3bffb4"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/shadow/droop.json"
+hash = "e70c1cca99b18d434698282991f47419eea04ae32f511e5c83f4937ce83cf780"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/shadow/pillar.json"
+hash = "ccfc2b49587fc5496ac2dc24619c6aa738426c44ff61255f3114105631b3e25d"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/shadow/pillar_down.json"
+hash = "a9fde3b5e86bc941660f86b84b851d14b6f5c99a7dfaddd4d641d1f7151852a9"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/shadow/pillars_coral.json"
+hash = "f7be54fa8a729a7594b8c3471832d6f6ac7421b7eb368ba228ff9f2712fef838"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/shadow/shadow_cut.json"
+hash = "0a305384d63a43a0677d9f17d1d00096b02b039cee698651b6d60e23555aec99"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/shadow/simple_coral.json"
+hash = "c7bab28804e665e4106aeb7b7c5d60f0f01e72bbef36b60c8c9523701022e95b"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/shadow/vegetation.json"
+hash = "e743524d8bcd21718c827307c54023f9da2537de761fadf5f13c7b7ee216f9bf"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/shattered/basalt.json"
+hash = "fc729a433b0b26bf439f5a875af0c0a6b990c8866eea801b58be9b9845c5460e"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/shattered/blackstone.json"
+hash = "3d58b549ee0f328ff18305cb705eed4f98c8cb2364fba99cbdb23939315ffcb8"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/shattered/crying.json"
+hash = "7848d66f2a0603eef2a1e866f12ed5978a74aacd6dd59bbedfef2c63d63dd675"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/tar/base.json"
+hash = "f2bffb7b1a9c760ad70b7013167a124b27782f46fb60de2b9e372e2829d8c4e6"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/tar/cracks_1.json"
+hash = "b0e5d7420b24a1292f31ff99276d582972eb21c0040182d033483e88d0e1f67f"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/tar/cracks_2.json"
+hash = "b1e27cc9c3bfddd6511abc71f99c74b2746f55de47828d69868fbd67888d3e5f"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/tar/cracks_3.json"
+hash = "ada71995788f17d07c56c96288cf163a6ab1c8e1a20a514e9e881d96b932a8bf"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/tar/cracks_4.json"
+hash = "5058a4354b72ae7d91081df8309d9b50b0ce0e611c5d8508200e5a812a67c7c6"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/tar/cracks_5.json"
+hash = "9f4c03c2ff57801a9b7bfd6ecdc91bd51bf31000fe76d47272b1bae1d350a2f0"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/tar/cracks_start.json"
+hash = "8de8297967e95c5cd3459f62f92af5a499b534d539df83bcaed4dd3929437559"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/tar/glass_column.json"
+hash = "3f196ca947fe1c1e7ee7aecda6658640fc921383d7b1ad9993573d667033f654"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/tar/tar_pit.json"
+hash = "5a75f5ae37e074c7890391771b7abbc9f28c2cadde6033bfab6287e813478b1a"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/tar/tar_pit_glowing.json"
+hash = "6623d3fe3eade7fdba1157c49d20ec0beea1fe53bc0e3b4bfe82c3f34643e802"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/tar/tar_pits.json"
+hash = "0e16c4ebfa2beb325524aae4f9c2454c8c831350d46ed19001cee57d23b80f8c"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/void/void_94.json"
+hash = "7208429c29361b2e4f54b48b5022673a30e5794b94903ea869996fead1d26b1c"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/void/void_95.json"
+hash = "8dad9a26e19b5c18fbe0a20f3dbaa354cfc97c436fd2a2d22f00f6b6208eae0e"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/placed_feature/void/void_96.json"
+hash = "c3029f42fdcccafe5c243b9bdfeb2d8e833809acf6a34238f96e4611ab9d4638"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/nullscape/worldgen/processor_list/void_suppression.json"
+hash = "39bdb5ccace905607325ff9529af3c69b32510ea9f8b001b61c2a008ede00187"
 
 [[files]]
 file = "global_packs/required_data/zLaky Core/data/quarrymod/recipes/rolling_machine/drill_tube.json"
@@ -15722,7 +16750,7 @@ hash = "058c91a44f9f4c079069775e15aea88454aee80420815cf5af51dedf01187d24"
 
 [[files]]
 file = "kubejs/server_scripts/create.js"
-hash = "f7dedd2305502adcf40bcec83e0289c3738f1491f68bd139e4e0a36886c821aa"
+hash = "943b0fffd34173dd24431f5b322dd81d9f8edebf79b5e08cd1ee240c4ca12b50"
 
 [[files]]
 file = "kubejs/server_scripts/createaddons.js"
@@ -15738,11 +16766,11 @@ hash = "7ca4c2aeb68d59bd46b4735e90100d4eff83da2b27d61b23aae081656388efe6"
 
 [[files]]
 file = "kubejs/server_scripts/removals.js"
-hash = "fccfeec1f2f54023f4d85ed3d31f626f3e09459017dbe49b98374dcee6385cbb"
+hash = "49222b0931197190eaffe91f21329bc05821f4e770386c7fc42908bb80f15004"
 
 [[files]]
 file = "kubejs/server_scripts/replacements.js"
-hash = "df10c6608db61d7589dc9cadea002b2452496106a0e082a33865be59323c23e5"
+hash = "148e34cd05eb356e98780a892f2863b3eb91ef9e177cff77f9f0575975886476"
 
 [[files]]
 file = "kubejs/server_scripts/resourcegen.js"
@@ -15750,7 +16778,7 @@ hash = "64410141e6a6e0416939d7c2ac73170bb0a1ec1a6c05941823649a02ee11ea20"
 
 [[files]]
 file = "kubejs/server_scripts/server.js"
-hash = "050a53b563e3555ea201521ea9ca6edba5da5cf1f836fb90f8f1f33933db1faa"
+hash = "fc5edd52df2f17af9fb6039e0c80681eb01a68bd5e8cc3c82bb7f7b96f0681ba"
 
 [[files]]
 file = "kubejs/server_scripts/tags/graveReplaceBlacklist.js"
@@ -15766,7 +16794,7 @@ hash = "4f9be69c0090d0a979d22ee58b1a457796b13d55202b588fa9ad113057049f90"
 
 [[files]]
 file = "kubejs/startup_scripts/startup.js"
-hash = "6da100dcdecd854914b2030310258582b4479aa67c8db3f3554d2295b5a8f346"
+hash = "38294f243bb88f85b2bb777e3dae1ff03e64835e5918854d27f9d2a22789fc53"
 
 [[files]]
 file = "mods/Hephaestus-1.18.2-3.6.0.164.jar"
@@ -15784,7 +16812,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "0736611cf421b35e2852976365140fef01180436b9c4ad54dd834875618b584c"
+hash = "9ffd7ee783a7e64195f667529ec4e80c63da6a0e813e69a25442c2ab845b1571"
 metafile = true
 
 [[files]]
@@ -15804,7 +16832,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
-hash = "89fe38f93f9f797a299dd8c5d83e0e294ae2240572404ec74e79309e509fba3d"
+hash = "25d9b0c702ddbcb8df349c7dca11144fa3cf79002fb72205c56d338f0d22ee15"
 metafile = true
 
 [[files]]
@@ -15824,7 +16852,7 @@ metafile = true
 
 [[files]]
 file = "mods/astral-vinery.pw.toml"
-hash = "5d19ace06ea987cb2869e64ce7c9ee4245ab7576a65fca99845de936398b091e"
+hash = "d834d444bc89ef38310e2165d98faaea8c072b2a9b554f685b91dfa572b4ce25"
 metafile = true
 
 [[files]]
@@ -15948,7 +16976,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblegen.pw.toml"
-hash = "417b73b3f42b798174714fd438cbfda57b7b70244ed3d24af4ee944e7aac574b"
+hash = "5dff1dee639e59129545211407c301192d5efa8c5e09c9b572fd72a5076dfbcd"
 metafile = true
 
 [[files]]
@@ -16018,7 +17046,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-machinery.pw.toml"
-hash = "5cb0626458c56560f519b0ff0daa9ee01e6cec22aada6515d1cace03d4eb67d8"
+hash = "e95ac98f226b4af9eee9e19738236a807adb7d41614d19a07526d10ac2ff9226"
 metafile = true
 
 [[files]]
@@ -16057,7 +17085,7 @@ metafile = true
 
 [[files]]
 file = "mods/drp-global-datapack.pw.toml"
-hash = "420df711514cc07a0e6689f4a900c69ab8b6394b5f6320ac922746e9fae1a4b7"
+hash = "1af38c7c7120045a868000476f8b75a766e57e4c07b5f315fb112b8b98e0dd6a"
 metafile = true
 
 [[files]]
@@ -16072,12 +17100,12 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
-hash = "b668875d7f22033e43efeef4c1772f8567d6b33b06f7b16e17ccb3bbcb23dc47"
+hash = "f0f42c5ebb83132de8329e9fa1463963032678d2ffc5afdab845bfd1dce676a9"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "f2390a75c85e5560fbd9686b3d6f3995b099a716b2df2e3dacfdaf63ddce663b"
+hash = "630f1a9f52c0c383f2544fce70eed7b3716785fe99cc4717bf8b3a76c65e2662"
 metafile = true
 
 [[files]]
@@ -16112,7 +17140,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "0e947895e29a66639fe835f0bf1b20c59996a24e8471772a10f3e49792703326"
+hash = "2d0642ca7b94248e67530d89b6ab67f01786c621fab3fbe019a7951d4ae41bc6"
 metafile = true
 
 [[files]]
@@ -16143,6 +17171,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "0728fabfd38137860fb313a2ca389340b92073c4e8e91505e8e6559f17a82198"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "9d28d1cb27201f443ffe1836bceb0bec7998f3cf73fe6452f4eeeb5eb5f5b0ff"
 metafile = true
 
 [[files]]
@@ -16182,7 +17215,12 @@ metafile = true
 
 [[files]]
 file = "mods/harvest-with-ease.pw.toml"
-hash = "632c8783a0c0d1532d7323ab6a7bc39865ac75544546b17c5286f61404134b1d"
+hash = "47023307aa1db902bfa28a910d26bc2d76e7fbe30ff7f670f0fb89122a364840"
+metafile = true
+
+[[files]]
+file = "mods/horsebuff.pw.toml"
+hash = "9efa91f7de943cd74be529ac52527ba23e8467b4ef22e104c12466acd5522892"
 metafile = true
 
 [[files]]
@@ -16212,17 +17250,17 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "e2cce9327dc393441aebc1054c4e8d44cacba35139a0208eb2e65ce14d7636f1"
+hash = "ae90ea2d7a5d4cf235b584b1ba8a5306c91a8548edd80386ac9d90b8f07a8b24"
 metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "34fc669d5080a4850ddbd62c9ff3078265bc76f76d27e9d17fabd77479055a1c"
+hash = "e5cc201888f682d1810fc0bfd4bdd89c4541553dac33935abb71fb4c43ddf343"
 metafile = true
 
 [[files]]
-file = "mods/iris-mc1.18.2-1.5.2.jar"
-hash = "45038f5272442df74fee72efae2bc67576d68dc9ff7d722be5e63fe5e12a8d11"
+file = "mods/iris-mc1.18.2-1.6.4.jar"
+hash = "2377ac44389e3f06826afb172da64ebc28ff87a08245f1564621acb9cd307ee7"
 
 [[files]]
 file = "mods/item-filters.pw.toml"
@@ -16251,7 +17289,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete-fabric.pw.toml"
-hash = "13b83cdf5601fd10c3ac6572cd114f2dd90404e69f9143fab217fa5ea6d46ca4"
+hash = "9c6563d1c5cc7ade3093d759bbac558dbb04a230688dff86107af33244a7904a"
 metafile = true
 
 [[files]]
@@ -16291,7 +17329,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "e471427a33beb2e2cd3387c037dee28fe321f8752f4a679e133422b9cf9b6d44"
+hash = "320ea21b6a13e0431d42ed027adcf0e63383251ee1e9f1bf54339a89cd070cfa"
 metafile = true
 
 [[files]]
@@ -16311,7 +17349,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr-fabric.pw.toml"
-hash = "6c6c8ab8289ee4f0f118273b6eb2fd8879e97d1f4462e3edf4ceca1361f000a6"
+hash = "2ec9c0dfea10b2de97bcc6a1ec1bf71177e9150050c35b022a1a6258bad08209"
 metafile = true
 
 [[files]]
@@ -16326,7 +17364,7 @@ metafile = true
 
 [[files]]
 file = "mods/merequester.pw.toml"
-hash = "5554242e1ff0ab715b37fcf41de5048a73de5174dcf6d5cf3a62dab91c7212b9"
+hash = "526e7fa8d167fc332e8d9380d2442513f12596793094866892d25b80aebd9e2f"
 metafile = true
 
 [[files]]
@@ -16340,13 +17378,18 @@ hash = "f67c55c784dd43224706708e28c4af3bc4a1afe492a8b700714de355ff622b4e"
 metafile = true
 
 [[files]]
+file = "mods/mob-captains.pw.toml"
+hash = "4da733514ca3601f7a773759a6fc2ced2cc10d3d1f07b602d7b572da53a95849"
+metafile = true
+
+[[files]]
 file = "mods/mobvotes-sniffer.pw.toml"
 hash = "276d368cb39572fe09d1c50d97aa21557cfb969c098e5902d2cf238d177d60f1"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "02c36b696c3cfe00a925d67e65f7375b72cf580af1f2763c408a89bed7547f20"
+hash = "6925b83dd89cc7f88bcc944af4793d2bf193f6543992b3687ce7d77dace0dcb3"
 metafile = true
 
 [[files]]
@@ -16375,8 +17418,18 @@ hash = "b149c02328a369e847853eb0d807391de45fc516c3f86e10b1ebae8faaac0d9d"
 metafile = true
 
 [[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "1156410748805a4a96e6b10d0f54f0face3072187e24083a5e341d23354e0665"
+metafile = true
+
+[[files]]
 file = "mods/observable.pw.toml"
 hash = "a72510f2e1b70dbc67312261271f5e5dae296d38e21a26df036afa9acf4e2586"
+metafile = true
+
+[[files]]
+file = "mods/omnihopper.pw.toml"
+hash = "fcb905ad88b2b325b3c2fecc42be0497a37b8b2ef3f804cffb99fc29a5e3e494"
 metafile = true
 
 [[files]]
@@ -16396,7 +17449,7 @@ metafile = true
 
 [[files]]
 file = "mods/per-aspera.pw.toml"
-hash = "26753afd34dcc6e7fad509cba7905af7a93b7770fb39414683f3e5ae9d419b1d"
+hash = "59e03ed1bdebedbf2acafe3b05bceeff4e2d87aebc3be1d25a17d52627984c11"
 metafile = true
 
 [[files]]
@@ -16411,7 +17464,7 @@ metafile = true
 
 [[files]]
 file = "mods/ping-wheel.pw.toml"
-hash = "83826d105fc0b4e26d3650b87404c51842a17b75240c772a9ba35f466e31dda8"
+hash = "7a557c8dc4099b2a1273351cf15a86673b2c449befd47f58473aba9b0981952f"
 metafile = true
 
 [[files]]
@@ -16456,7 +17509,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "7f505a0ab4ea184665e7d786e49037cb79f8c6a90d821b0264c812ac14fb40bc"
+hash = "95a1770e1f7e705f8bd828af63d670585841486362ac28753403fff8cea0545c"
 metafile = true
 
 [[files]]
@@ -16471,7 +17524,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "e9dde1018f5f68722ecd1cb347833d6a75437d19580225f31d7e7cafd74b1cc2"
+hash = "cf4573c2aae1a8ad7030d24b5d3c849546b799c280fbe1f7acba66b3b4472504"
 metafile = true
 
 [[files]]
@@ -16481,7 +17534,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "848bb61a0071254502d813aec36cafcd88e2951cddf8b1195d997c2c114dd183"
+hash = "88b8f9d37423f776d518e89b5e41153f91f07b4d1d6ecf403748f3004d28f526"
 metafile = true
 
 [[files]]
@@ -16506,7 +17559,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "3d6b7d16fcc9a9a8538234f0095768a28190b99ff5d98a3cc277847e671de4e7"
+hash = "5c312bb3fa2a2ddaf2e0f8d8423425e1cca09a9c71b9cff870b7db71f09d19e7"
 metafile = true
 
 [[files]]
@@ -16535,12 +17588,17 @@ metafile = true
 
 [[files]]
 file = "mods/suggestion-tweaker.pw.toml"
-hash = "ceb80a902596af07911c98d6f3d9ff81b04b2792af636750ba9eb7fbe734b077"
+hash = "b1d187ffc0260782a92c829281025c49de101db1abe29223896a94eb7d4e4677"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "3433fa13a2e8ea6d9f09ce81f27e003c367ac3085d3c2ae36803a29507b96687"
 metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "9e7940c85c06252b83d6658daee4ccf0b81d9d42bca5db36a4c4ad1fdf813b4c"
+hash = "ed807450d19a3d7bb43e684a61f433ece32c387d4e5a4c36ad6811108ce1e66d"
 metafile = true
 
 [[files]]
@@ -16560,12 +17618,12 @@ metafile = true
 
 [[files]]
 file = "mods/trash-cans.pw.toml"
-hash = "372901d134d30604512faa97e58f3e5d8696f7dd7809e7dfe2309a843a7af376"
+hash = "c819f935c34f43d5edf766a019fd20d020acbf9266dd2308d0d7bfc3ce1a9d72"
 metafile = true
 
 [[files]]
 file = "mods/travelers-backpack-fabric.pw.toml"
-hash = "89acb4e874ac3a825ba2f99019f58e57fb006b9498a1ea8f3bdb27fcb0939611"
+hash = "3bfff8e1a47da25d4b7ad0e04bfdbca9ce332bcd96c469596840e5002de598a1"
 metafile = true
 
 [[files]]
@@ -16575,12 +17633,17 @@ metafile = true
 
 [[files]]
 file = "mods/unlimitedperipheralworks.pw.toml"
-hash = "6ddb7faf2195445f788dbb17a5cc1a1ea85d61174bd80a10c3812d1d5b33701a"
+hash = "2ad877b3aedaa6f3a0482a24c9e06ba5a74ae727eea1d9c5ebf43b590ae4bdba"
 metafile = true
 
 [[files]]
 file = "mods/wi-zoom.pw.toml"
 hash = "5348cc63c924bb352476cb4cccb7096f3ae0f2850566e98083c8bc4bc5df7a3d"
+metafile = true
+
+[[files]]
+file = "mods/wiredredstone.pw.toml"
+hash = "aa0f71baa3c43f0727bba116bbf0f40fabcae95c6291037493926aa50a37f89f"
 metafile = true
 
 [[files]]
@@ -16590,7 +17653,7 @@ metafile = true
 
 [[files]]
 file = "mods/wormhole.pw.toml"
-hash = "01bbe778098ec64b22eb9ee29a43d39b46c91a2d5a1f962b8d65bd392fa51c6c"
+hash = "ca8f08fd762556b5a24f8317d491d26051367d79d02c1008f9a5d136008f5be5"
 metafile = true
 
 [[files]]
@@ -16611,6 +17674,18 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "f428e847e1c72a05268e6bb24763239b7ddfe8e03553e068964adbb8582d2a36"
+
+[[files]]
+file = "quests_structures/distillation.nbt"
+hash = "57ea6013e1a7ca5546e33873156b81be406a6a947632b1417349ea886b1736dc"
+
+[[files]]
+file = "quests_structures/electrolyser.nbt"
+hash = "a5f3536f166a033a1fb6e5a73ec83f6a915505a63c27950d29c2b991907e638e"
+
+[[files]]
+file = "quests_structures/shimmerref.nbt"
+hash = "c2d3dd7d516154f0d79e8df9397f0a02fea97f3cf70c918a184fe9835c8a6462"
 
 [[files]]
 file = "resourcepacks/BetterVanillaBuildingV2.86.1/assets/.mcassetsroot"
@@ -30362,7 +31437,7 @@ hash = "dbd6859e6fd39823e921db9a7c4b7b394343d21615b42cbf1964aa333cadc67b"
 
 [[files]]
 file = "resources/immersive_aircraft/lang/en_us.json"
-hash = "68a4e04406d7e91946faa0d0ab1ab4ab625765595139a0ab234e50247a3eb4f6"
+hash = "1a05359e744344d8a72a9411ed4a764860278e85b3e9de8fa3741a93af957dd5"
 
 [[files]]
 file = "resources/immersive_aircraft/lang/fr_fr.json"

@@ -10,7 +10,7 @@
 	 * timing on the server side. This makes timing firing the rifle feel much better, but a hacked
 	 * client can get perfect shots every time.
 	 */
-	trust-players: off;
+	trust-players: on;
 	
 	/*
 	 * If set to "on", Yttr will add all modded blockstates to the debug world after mods have
@@ -75,7 +75,7 @@
 	 *
 	 * If that's not enough for you, this nuclear option off switch is offered.
 	 */
-	allow-void: off;
+	allow-void: on;
 	/*
 	 * If set to "off", the Explode rifle mode will be disabled. It provides a relatively cheap way
 	 * to create normal vanilla explosions. If set to "soft", the explosions will not break any
