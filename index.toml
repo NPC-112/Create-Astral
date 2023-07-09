@@ -17292,11 +17292,6 @@ hash = "c05c9c03723f575633b45e75086cbe5b76467d7107e19a546ccd3c1d4bfcb2e1"
 metafile = true
 
 [[files]]
-file = "mods/fastload.pw.toml"
-hash = "0888f6912e3d764cc570dff4ea4198ee67d9c174c0aa9f8da31c2ccb19f8cba2"
-metafile = true
-
-[[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "db203da9e9d0cea7480422f1df91590469609952850fe575195166e13778dcf2"
 metafile = true
@@ -17497,6 +17492,11 @@ hash = "276d368cb39572fe09d1c50d97aa21557cfb969c098e5902d2cf238d177d60f1"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "d60df381d912436bcc0852c242cc360f89f9b51d2ddc765a6e2cdbac71f66468"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "525c8bf3d5ef7a070ddf7a725d49595938c5ebd4ef8f6e4c86efe78ced4dece6"
 metafile = true
@@ -17634,11 +17634,6 @@ metafile = true
 [[files]]
 file = "mods/show-me-what-you-got.pw.toml"
 hash = "ab8141f45e8cdcb983bde2c7675501744b780f9eb8ea846a01f8e43ac8c7f455"
-metafile = true
-
-[[files]]
-file = "mods/smooth-boot.pw.toml"
-hash = "e5b5005e261b92dc571ba52db7d501c6c1b2a3890c80e9d801daa9b282c55f2a"
 metafile = true
 
 [[files]]
